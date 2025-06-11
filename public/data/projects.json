@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Website Tari Bali",
+    "description": "Website yang menampilkan berbagai jenis tari Bali dengan informasi lengkap.",
+    "tech": ["HTML", "CSS", "Javascript"],
+    "screenshots": ["/images/website tari bali.png"]
+  },
+  {
+    "title": "PWA Football",
+    "description": "Aplikasi web progresif yang menyediakan informasi terkini tentang sepak bola.",
+    "tech": ["HTML", "CSS", "Javascript", "PWA"],
+    "screenshots": ["/images/pwafootball.png"]
+  },
+  {
+    "title": "Aplikasi Perpustakaan",
+    "description": "Aplikasi yang memudahkan pengguna dalam mencari dan meminjam buku di perpustakaan.",
+    "tech": ["Codeigniter 3", "Bootstrap", "Javascript", "MySQL"],
+    "screenshots": ["/images/Capture3.png"]
+  },
+  {
+    "title": "Aplikasi Diagnosis Gangguan Stress, Kecemasan, dan Depresi",
+    "description": "Aplikasi yang membantu pengguna mendiagnosis gangguan stress, kecemasan, dan depresi melalui serangkaian pertanyaan.",
+    "tech": ["HTML", "CSS", "Javascript", "PHP Native", "MySQL", "Certainty Factor"],
+    "screenshots": ["/images/C1.png", "/images/C2.png", "/images/C3.png"]
+  },
+  {
+    "title": "Toko Online Sayur Segar ",
+    "description": "Sebuah aplikasi toko online yang menyediakan berbagai jenis sayuran segar dengan sistem pembayaran online.",
+    "tech": ["HTML", "Tailwind CSS", "Javascript", "PHP Native", "MySQL"],
+    "screenshots": ["/images/E1.png", "/images/E2.png", "/images/E3.png"]
+  },
+  {
+    "title": "Aplikasi Calisthenics Training Coach",
+    "description": "Aplikasi yang menyediakan program latihan calisthenics dengan panduan video dan tips.",
+    "tech": ["Codeigniter 4", "Bootstrap", "Javascript", "MySQL"],
+    "screenshots": ["/images/D1.png", "/images/D2.png", "/images/D3.png", "/images/D4.png"]
+  },
+  {
+    "title": "Aplikasi BOT Penjualan Banten",
+    "description": "Aplikasi chatbot yang membantu pengguna dalam mencari dan membeli produk Banten secara online.",
+    "tech": ["HTML", "CSS", "Javascript", "Chatbot"],
+    "screenshots": ["/images/F1.png", "/images/F2.png"]
+  },
+  {
+    "title": "Aplikasi BOT Penjualan Makanan Khas Bali",
+    "description": "Aplikasi chatbot yang merekomendasikan penjual makanan khas Bali",
+    "tech": ["PHP Native", "MySQL", "Chatbot"],
+    "screenshots": ["/images/G1.png", "/images/G2.png"]
+  }
+]
